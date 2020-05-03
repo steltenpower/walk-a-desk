@@ -5,7 +5,7 @@
 
 Why?
 * Cause sitting whole day looking into a lamp is not healthy
-* Cause a mobile's screen is often too small and you 'loose' one hand holding it
+* Cause a mobile's screen is often too small and you 'lose' one hand holding it
 * Cause information bandwidth is high for human communication including gestures, body language, tone, etc.
 * Cause sketching with pen on papers you can reshuffle is awesome for getting a train of thoughts accross quickly
 * Cause we should have many different shapes for many different situations
