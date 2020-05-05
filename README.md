@@ -26,3 +26,5 @@ Is the beamer fast enough for interlacing it with the camera?
 Maybe a RECORD-mode can be triggered with a button on your wrist/knee/wherever, or a spoken command.
 
 Cheaper, less-featured, not tried yet: a smartphone on 'harmonica holder'-like thing.
+
+![the desk surface, with the 30cm radius visible](https://raw.githubusercontent.com/steltenpower/walk-a-desk/master/IMG_20200505_211719082.jpg)
