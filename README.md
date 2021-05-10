@@ -1,7 +1,7 @@
 ## walk-a-desk (computerShapedAroundConversation)
 
 (quick prototype nr.0; projector and cam on a broom stick, aiming at same area. Plus speaker and microphone.)
-![walk-a-desk prototype](https://pbs.twimg.com/profile_images/633236200845930496/Re5TPRcQ.jpg)
+![walk-a-desk prototype](https://repository-images.githubusercontent.com/69238742/0d63bd80-7896-11eb-8ccb-dc2bf192d962)
 
 Why?
 * Sitting whole day looking into a lamp is not healthy
