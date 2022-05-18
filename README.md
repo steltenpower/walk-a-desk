@@ -17,7 +17,7 @@ What next?
 * instead of the broom somewhat blocking one hand, the projector+cam will be hung on curve going overhead attached to frame on back
 * construction can also be put on edge of table, and beamer and webcam can be rotated towards wall.
 * more sensors can be added
-* Add a no-hands-portable chair like https://www.lexbyastride.com/
+* Add a no-hands-portable chair like https://www.lexbyastride.com/ ![a hands-free portable chair](https://cdn.shopify.com/s/files/1/0554/7855/0722/products/Lex-wearable-bionic-chair-Yaksa-Red-Left-side_360x.jpg?v=1645345231)
 * https://lampix.com/ might be part of this, or at least provide inspiration
 The beamer can also be used to show what is in the field of the camera ...
 That should actually be a component as such. To be put on this frame, but also hanging from the ceiling, or put on a headband.
