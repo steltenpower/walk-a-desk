@@ -11,6 +11,7 @@ Why?
 * In many situations people wouldn't be willing to put a VR/AR headsets on.
 * Sketching with pencil, on papers you can reshuffle, is awesome for getting a train of thoughts accross quickly
 * Different situations and ways of working allow for differently shaped combinations of devices
+* I saw a cool, but massive, table with somewhat similar functionality: https://saxionoppad.wordpress.com/2013/07/10/digitale-discussietafel-oftewel-de-ipadtable/
 
 What next?
 * instead of rope, use a proper padded frame (similar to a marching band drum carrier)
