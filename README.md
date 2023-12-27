@@ -29,3 +29,6 @@ Maybe a RECORD-mode can be triggered with a button on your wrist/knee/wherever, 
 Cheaper, less-featured, not tried yet: a smartphone on 'harmonica holder'-like thing.
 
 ![the desk surface, with the 30cm radius visible](https://raw.githubusercontent.com/steltenpower/walk-a-desk/master/IMG_20200505_211719082.jpg)
+
+With a marching snare drum frame as a base?
+https://www.thomann.de/nl/thomann_sd1204w_marching_snare_set.htm
