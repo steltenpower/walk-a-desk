@@ -32,3 +32,11 @@ Cheaper, less-featured, not tried yet: a smartphone on 'harmonica holder'-like t
 
 With a marching snare drum frame as a base?
 https://www.thomann.de/nl/thomann_sd1204w_marching_snare_set.htm
+
+Add a giant foldable whiteboard?
+https://pdxreading.com/product/foldable-magnetic-receptive-white-board/
+
+Add phone that can act as a desktop with a portable touchscreen?
+https://www.youtube.com/watch?v=RBbh9d6sFhU
+
+Or some color e-ink screen/device? e.g. Boox
