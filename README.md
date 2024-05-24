@@ -39,4 +39,4 @@ https://pdxreading.com/product/foldable-magnetic-receptive-white-board/
 Add phone that can act as a desktop with a portable touchscreen?
 https://www.youtube.com/watch?v=RBbh9d6sFhU
 
-Or some color e-ink screen/device? e.g. Boox
+Or some (color) e-ink screen/device? e.g. https://daylightcomputer.com/
