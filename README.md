@@ -40,3 +40,11 @@ Add phone that can act as a desktop with a portable touchscreen?
 https://www.youtube.com/watch?v=RBbh9d6sFhU
 
 Or some (color) e-ink screen/device? e.g. https://daylightcomputer.com/
+
+To position your phone watch your hands?
+https://www.guitarking.nl/Boston_Mondharmonica_Houder
++
+https://www.wired.com/story/use-your-phone-as-webcam/
+
+
+
