@@ -47,6 +47,7 @@ https://www.guitarking.nl/Boston_Mondharmonica_Houder
 https://www.wired.com/story/use-your-phone-as-webcam/
 
 Also cause I saw the interesting (but not-portable) 'iPad table', by Paul Groneveld
+
 Remko Waanders said industrial design at UT might be interested in a student assignment ... make an A4
 
 
